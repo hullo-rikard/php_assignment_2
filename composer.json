@@ -1,0 +1,13 @@
+{
+    "name": "rikardbjerkenius/php_assignment_2",
+    "authors": [
+        {
+            "name": "rikardbjerkenius",
+            "email": "rikard@hullo.se"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "start": "php -S localhost:8080"
+    }
+}
